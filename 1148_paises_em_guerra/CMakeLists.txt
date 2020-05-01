@@ -1,0 +1,1 @@
+add_executable(1148_paises_em_guerra main.cpp)
