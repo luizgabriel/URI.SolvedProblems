@@ -1,0 +1,1 @@
+add_executable(1076_desenhando_labirintos main.cpp)
